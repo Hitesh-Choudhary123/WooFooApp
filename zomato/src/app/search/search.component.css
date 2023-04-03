@@ -1,0 +1,36 @@
+/* mat-form-field{
+    border-radius: 5px;
+    margin-left: 500px;
+    background-color: whitesmoke;
+    width:500px;
+    height: 52px;
+    }
+    .icon{
+      color:red ; 
+      font-size: x-large;
+    }
+    button{
+    margin-left: 10px;
+    background-color: transparent;
+    border: none;
+    }
+    div{
+      margin-top: -140px;
+    }
+     */
+     div{
+      text-align: center;
+      margin-top: -140px;
+
+     }
+     .icon{
+      color:blue ; 
+      font-size: 25px;
+    }
+    mat-form-field{
+      background-color: whitesmoke;
+      width: 30%;
+      height: 50px;
+      border-radius: 5px;
+      }
+     
